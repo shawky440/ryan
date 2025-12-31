@@ -1,0 +1,25 @@
+
+
+h4{color:black;font-size:20px;}
+h{color:black;font-size:30px;} 
+h3{color:rgb(35, 32, 131);font-size:20px;}                  
+p{margin-bottom: -10px;}
+
+
+
+.navbar a {
+    color: blue;
+margin-right:20px;
+}
+table{margin:auto;  width:60%;border-collapse:collapse}
+td{text-align:center;border:1px   solid black;padding:8px}
+
+.hero{height:100vh ;background-image:url('RT.jpeg');background-size:cover;color:rgb(231, 229, 227);display:flex ;font-size: 40px;  }
+.About{text-align:center}
+.contact{text-align:right}
+input{margin-bottom:10px}
+textarea{margin-bottom:10px}
+button{margin-right:50px}
+.map{text-align:center}
+.footer{background:rgb(241, 236, 236);color:rgb(246, 243, 243);text-align:center;padding:3px;padding-bottom:20px ;}
+.footer a{color:rgb(239, 230, 230);margin-right:10px }
