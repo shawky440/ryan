@@ -14,7 +14,7 @@ margin-right:20px;
 table{margin:auto;  width:60%;border-collapse:collapse}
 td{text-align:center;border:1px   solid black;padding:8px}
 
-.hero{height:100vh ;background-image:url('RT.jpeg');background-size:cover;color:rgb(231, 229, 227);display:flex ;font-size: 40px;  }
+.hero{height:100vh ;background-image:url('/RT.jpeg');background-size:cover;color:rgb(231, 229, 227);display:flex ;font-size: 40px;  }
 .About{text-align:center}
 .contact{text-align:right}
 input{margin-bottom:10px}
